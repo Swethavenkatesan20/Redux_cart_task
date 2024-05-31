@@ -96,8 +96,8 @@ const initialState = {
       quantity: 1
     }
   ],
-  totalQuantity: 5,
-  totalAmount: 3476
+  totalQuantity: 0,
+  totalAmount: 0
 };
 
 const cartSlice = createSlice({
