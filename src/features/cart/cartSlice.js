@@ -20,7 +20,7 @@ const initialState = {
         "https://i.dummyjson.com/data/products/1/4.jpg",
         "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
       ],
-      quantity: 0
+      quantity: 1
     },
     {
       id: 2,
