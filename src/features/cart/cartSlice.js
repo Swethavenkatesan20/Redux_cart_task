@@ -20,7 +20,7 @@ const initialState = {
         "https://i.dummyjson.com/data/products/1/4.jpg",
         "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
       ],
-      quantity: 1
+      quantity: 0
     },
     {
       id: 2,
@@ -39,7 +39,7 @@ const initialState = {
         "https://i.dummyjson.com/data/products/2/3.jpg",
         "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
       ],
-      quantity: 1
+      quantity: 0
     },
     {
       id: 3,
@@ -55,7 +55,7 @@ const initialState = {
       images: [
         "https://i.dummyjson.com/data/products/3/1.jpg"
       ],
-      quantity: 1
+      quantity: 0
     },
     {
       id: 4,
@@ -75,7 +75,7 @@ const initialState = {
         "https://i.dummyjson.com/data/products/4/4.jpg",
         "https://i.dummyjson.com/data/products/4/thumbnail.jpg"
       ],
-      quantity: 1
+      quantity: 0
     },
     {
       id: 5,
@@ -93,7 +93,7 @@ const initialState = {
         "https://i.dummyjson.com/data/products/5/2.jpg",
         "https://i.dummyjson.com/data/products/5/3.jpg"
       ],
-      quantity: 1
+      quantity: 0
     }
   ],
   totalQuantity: 0,
